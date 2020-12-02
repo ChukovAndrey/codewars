@@ -3,6 +3,7 @@ Some of my solutions to Codewars challenges.
 
 <details>
   <summary>6 kyu</summary>
+  
     | Task          | Solution      |
     | ------------- | ------------- |
 </details>
